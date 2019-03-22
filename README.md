@@ -1,6 +1,8 @@
 # Ski Data Risoul
 Ski (and snowboard) data March 2019 Risoul &amp; Vars
 
+![](FullMap.png)
+
 ## Data Gathering
 
 All ski data received was tracked with mobile phones using the app Ski Tracker.
