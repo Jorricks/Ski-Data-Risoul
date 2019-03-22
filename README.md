@@ -24,7 +24,7 @@ These are also present in the git.
 ## Credits
 ### Trackers
 I would like to thank a long list of friendly people who helped me by tracking their skiing with Ski Tracks as well.
-Their names are Boris van Vught, Chiel Zelders, Daan Hendriks, Dana Bosman, Dorrith Verstegen, Janneke Kersten, Jarred Getrouw, Jasper Adegeest, Jeffrey Smit, Jeroen Hilhorst, Jurjen Leer, Lana Krahenbuhl, Loran Corsten, Lukas Martens, Luuk Broekhaus, Mattijs Kamerling, Mayra Goevaerts, Merel Meima, Michelle Mak, Nick Krijgsman, Niels Salters, Noelle Dirks, Rein Lucassen, Rens van Hulst, Rik Leliveld, Sebastiaan van den Bijllaardt, Sil Duckers, Stefan Cavens, Stefan Delfgou, Steven Van Der Waal, Tamar van Asch, Tim Daemen, Veerle Heijnen and Wouter Smit.
+Their names are Boris van Vught, Chiel Zelders, Daan Hendriks, Dana Bosman, Dorrith Verstegen, Janneke Kersten, Jarred Getrouw, Jasper Adegeest, Jeffrey Smit, Jeroen Hilhorst, Jurjen Leer, Lana Krahenbuhl, Loran Corsten, Lukas Martens, Luuk Broekhaus, Matthijs Kamerling, Mayra Goevaerts, Merel Meima, Michelle Mak, Nick Krijgsman, Niels Salters, Noelle Dirks, Rein Lucassen, Rens van Hulst, Rik Leliveld, Sebastiaan van den Bijllaardt, Sil Duckers, Stefan Cavens, Stefan Delfgou, Steven Van Der Waal, Tamar van Asch, Tim Daemen, Veerle Heijnen and Wouter Smit.
 Thank you all for your cooperation!
 
 
