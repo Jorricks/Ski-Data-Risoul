@@ -1,5 +1,5 @@
 # Ski Data Risoul
-Ski (and snowboard) data March 2019 Risoul &amp; Vars
+Ski (and snowboard) dataset March 2019 Risoul &amp; Vars
 
 ![](FullMap.png)
 
